@@ -1,0 +1,142 @@
+
+*** These modified files were found in JOE when it aborted on Fri Feb 14 19:38:11 2020
+*** JOE was aborted by UNIX signal 1
+
+*** File '(Unnamed)'
+/root/hashicat-aws/.git/MERGE_MSG
+* Startup Log *
+* Shell 2 *
+
+*** File '/root/hashicat-aws/.git/MERGE_MSG'
+Merge branch 'master' of https://github.com/tridrummer/hashicat-aws
+
+# Please enter a commit message to explain why this merge is necessary,
+# especially if it merges an updated upstream into a topic branch.
+#
+# Lines starting with '#' will be ignored, and an empty message aborts
+# the commit.
+Mergee me
+wq!
+wq!
+
+:wq!
+wq
+[2~:wq!
+
+zz
+[200~
+zz
+:wq!
+
+      
+*** File '* Startup Log *'
+Processing '/etc/joe/editorrc'...
+Processing '/etc/joe/ftyperc'...
+Finished processing /etc/joe/ftyperc
+Finished processing /etc/joe/editorrc
+
+*** These modified files were found in JOE when it aborted on Fri Feb 14 19:38:11 2020
+*** JOE was aborted by UNIX signal 1
+
+*** File '* Shell 2 *'
+
+Type joehelp for editor shell commands
+
+[1m[32mroot@workstation[m:[1m[34m~/hashicat-aws[m# git push
+fatal: The current branch master has no upstream branch.
+To push the current branch and set the remote as upstream, use
+
+    git push --set-upstream origin master
+
+[1m[32mroot@workstation[m:[1m[34m~/hashicat-aws[m# git commit -m "update"
+[master efdc840] update
+[1m[32mroot@workstation[m:[1m[34m~/hashicat-aws[m# git pull origin master
+From https://github.com/tridrummer/hashicat-aws
+ * branch            master     -> FETCH_HEAD
+Already up to date.
+[1m[32mroot@workstation[m:[1m[34m~/hashicat-aws[m# git push
+fatal: The current branch master has no upstream branch.
+To push the current branch and set the remote as upstream, use
+
+    git push --set-upstream origin master
+
+[1m[32mroot@workstation[m:[1m[34m~/hashicat-aws[m# git push --set-upstream origin master
+Username for 'https://github.com': tridrummer
+Password for 'https://tridrummer@github.com': 
+Counting objects: 6, done.
+Compressing objects: 100% (6/6), done.
+Writing objects: 100% (6/6), 797 bytes | 797.00 KiB/s, done.
+Total 6 (delta 3), reused 0 (delta 0)
+remote: Resolving deltas: 100% (3/3), completed with 2 local objects.
+To https://github.com/tridrummer/hashicat-aws
+   c0c7ad1..efdc840  master -> master
+Branch 'master' set up to track remote branch 'master' from 'origin'.
+[1m[32mroot@workstation[m:[1m[34m~/hashicat-aws[m# 
+*** File '(Unnamed)'
+/root/hashicat-aws/.git/MERGE_MSG
+* Startup Log *
+* Shell 2 *
+
+*** File '/root/hashicat-aws/.git/MERGE_MSG'
+Merge branch 'master' of https://github.com/tridrummer/hashicat-aws
+
+# Please enter a commit message to explain why this merge is necessary,
+# especially if it merges an updated upstream into a topic branch.
+#
+# Lines starting with '#' will be ignored, and an empty message aborts
+# the commit.
+Mergee me
+wq!
+wq!
+
+:wq!
+wq
+[2~:wq!
+
+zz
+[200~
+zz
+:wq!
+
+      
+*** File '* Startup Log *'
+Processing '/etc/joe/editorrc'...
+Processing '/etc/joe/ftyperc'...
+Finished processing /etc/joe/ftyperc
+Finished processing /etc/joe/editorrc
+
+*** These modified files were found in JOE when it aborted on Fri Feb 14 19:38:11 2020
+*** JOE was aborted by UNIX signal 1
+
+*** File '(Unnamed)'
+/root/hashicat-aws/.git/MERGE_MSG
+* Startup Log *
+* Shell 2 *
+
+*** File '/root/hashicat-aws/.git/MERGE_MSG'
+Merge branch 'master' of https://github.com/tridrummer/hashicat-aws
+
+# Please enter a commit message to explain why this merge is necessary,
+# especially if it merges an updated upstream into a topic branch.
+#
+# Lines starting with '#' will be ignored, and an empty message aborts
+# the commit.
+Mergee me
+wq!
+wq!
+
+:wq!
+wq
+[2~:wq!
+
+zz
+[200~
+zz
+:wq!
+
+      
+*** File '* Startup Log *'
+Processing '/etc/joe/editorrc'...
+Processing '/etc/joe/ftyperc'...
+Finished processing /etc/joe/ftyperc
+Finished processing /etc/joe/editorrc
